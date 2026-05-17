@@ -1,6 +1,8 @@
 # AI Career Assistant Platform
 
-An AI-powered career guidance platform that helps students become industry-ready in **AI**, **VLSI**, and **Software Engineering** through personalized career guidance, learning paths, resume feedback, job matching, and an AI chat assistant.
+A collaborative AI-powered career guidance platform that helps students become industry-ready in AI, VLSI, and Software Engineering through personalized career guidance, learning paths, resume feedback, job matching, and an AI chat assistant.
+
+> This project is currently under active collaborative development with ongoing feature improvements and integrations.
 
 ## Architecture
 
@@ -93,6 +95,29 @@ root/
 ├── .env.example
 └── package.json
 ```
+## Contribution Summary
+
+This repository is a forked collaborative project developed under mentor guidance.  
+My contributions focused on frontend structure, backend organization, API workflow setup, and authentication implementation.
+
+### My Contributions
+- Structured the initial frontend and backend project architecture
+- Built and organized frontend pages, reusable components, and application flow
+- Worked on frontend interaction workflows with FastAPI API endpoint
+- Implemented JWT-based authentication workflows including login, registration, token handling, and protected route logic
+- Assisted in backend route organization and API interaction setup
+- Contributed to overall project workflow organization and development collaboration
+
+### Technologies Worked With
+- Next.js / React
+- FastAPI
+- JWT Authentication
+- REST APIs
+- PostgreSQL
+- Docker
+
+### Collaborative Development
+Frontend-backend integration, additional refinements, and UI enhancements were later expanded collaboratively during subsequent development stages.
 
 ## Quick Start
 
